@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs-Start_13112022", "Cs-Start_13112022\Cs-Start_13112022.csproj", "{285A8640-B56B-4FF8-9B37-36345CE47E5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_13112022", "HW_13112022\HW_13112022.csproj", "{A86E950D-9111-426C-B268-1D96E66B595F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_13112022-function", "HW_13112022\HW_13112022-function.csproj", "{A86E950D-9111-426C-B268-1D96E66B595F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
